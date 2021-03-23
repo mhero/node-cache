@@ -10,7 +10,7 @@
     "express": "*",
     "memory-cache": "*",
     "pug": "3.0.1",
-    "snyk": "^1.425.4"
+    "snyk": "^1.465.0"
   },
   "engines": {
     "node": "8.1.x"
