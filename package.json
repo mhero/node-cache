@@ -2,19 +2,15 @@
   "name": "cache-with-express",
   "main": "cache.js",
   "scripts": {
-    "start": "node cache.js",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "start": "node cache.js"
   },
   "dependencies": {
     "express": "*",
     "memory-cache": "*",
-    "pug": "3.0.1",
-    "snyk": "^1.685.0"
+    "pug": "3.0.1"
   },
   "engines": {
-    "node": "8.1.x"
+    "node": "16.13.0"
   },
-  "license": "MIT",
-  "snyk": true
+  "license": "MIT"
 }
